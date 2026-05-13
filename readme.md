@@ -115,9 +115,7 @@ This project highlights not only model building but also critical dataset analys
 ```bash
 ML8-Employee-Performance-Prediction/
 │
-├── data/
-│   └── employee_data.csv
-│
+├── Extended_Employee_Performance_and_Productivity_Data.csv
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
